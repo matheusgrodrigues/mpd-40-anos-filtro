@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.c-wrapper {
+    display: flex;
+    position: relative;
+    width: 1080px;
+    height: 1080px;
+margin: 0 auto;
+justify-content: center;
+}
+
+.c-wrapper__foto {
+
+}
+
+.c-wrapper__filtro {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
